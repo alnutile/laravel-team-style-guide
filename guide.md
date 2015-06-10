@@ -7,3 +7,10 @@ Your route or controller can get the post this way
 $request = Request::instance();
 $incoming_payload = json_decode($request->getContent());
 ~~~
+
+
+# .env Best Practices
+
+Required
+
+Naming = environment
