@@ -9,8 +9,12 @@ $incoming_payload = json_decode($request->getContent());
 ~~~
 
 
-# .env Best Practices
+# .env Best Practices (more coming soon)
 
-Required
+@TODO Required
 
-Naming = environment
+@TODO Naming = environment
+
+# Seeding (more coming soon)
+
+@TODO keep it minimal, using the new factory feature
